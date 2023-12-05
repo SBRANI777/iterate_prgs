@@ -8,6 +8,7 @@
 #Guess the number: 3 
 #You have just won Rs. 1,000
 #Your balance: Rs. 2000 
+#see this properly
 import random
 money=1000
 i=1
