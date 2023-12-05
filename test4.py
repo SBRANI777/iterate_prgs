@@ -15,6 +15,6 @@ while(i<4):
         break
     else:
         if i==3:
-            print("game over")
+            print("game over!!!!")
     i=i+1
     

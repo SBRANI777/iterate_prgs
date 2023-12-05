@@ -3,7 +3,7 @@ b=20
 print(a+b)
  
 
-str1="hello"
+str1="heloo"
 str2="python"
 print(str1+str2) 
 
