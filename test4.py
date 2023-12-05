@@ -1,3 +1,4 @@
+#getting playing with random numbers
 import random
 i=1
 while(i<4):
